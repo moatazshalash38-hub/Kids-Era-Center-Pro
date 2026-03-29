@@ -13,8 +13,13 @@ A professional management and billing system for children's play areas, built wi
 - **JSON & CSV:** For local database and logging.
 - **Winsound & Threading:** For background alerts and notifications.
 
-## 📸 Dashboard Preview
-![App Preview](https://github.com/moatazshalash38-hub/Kids-Era-Center-Pro/blob/main/dashboard.png?raw=true)
+## 📸 Application in Action
+Here is a preview of the main dashboard with live sessions, and the smart search filter in action:
+
+<p align="center">
+  <img src="dashboard_full.png" width="48%" alt="Full Dashboard View" />
+  <img src="dashboard_filter.png" width="48%" alt="Search Filter in Action" />
+</p>
 
 ---
 *Developed with focus on real-world business logic and data integrity.*
