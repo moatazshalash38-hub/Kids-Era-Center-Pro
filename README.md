@@ -18,7 +18,7 @@ Here is a preview of the main dashboard with live sessions, and the smart search
 
 <p align="center">
   <img src="dashboard_full.png" width="48%" alt="Full Dashboard View" />
-  <img src="dashboard_filter.png" width="48%" alt="Search Filter in Action" />
+  <img src="dashboard_filter.png.png" width="48%" alt="Search Filter in Action" />
 </p>
 
 ---
